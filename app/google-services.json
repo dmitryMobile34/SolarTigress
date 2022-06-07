@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "675526819155",
+    "project_id": "solar-tigress",
+    "storage_bucket": "solar-tigress.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:675526819155:android:119fb17d14357d4a71f5a6",
+        "android_client_info": {
+          "package_name": "com.inspacegalaxyx.solartigress"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "675526819155-johl5k1n2r130h0b265rms00j6b1fb10.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkbGXf6ni59LqfKSEgaS7xx8b5_qDE2h4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "675526819155-johl5k1n2r130h0b265rms00j6b1fb10.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
